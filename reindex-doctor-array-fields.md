@@ -1,0 +1,3 @@
+- clinics
+- clinics.schedule
+- societies
