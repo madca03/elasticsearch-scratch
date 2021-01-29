@@ -1,3 +1,8 @@
+# Object type
+## https://www.elastic.co/guide/en/elasticsearch/reference/current/object.html
+
+Create document
+
 ```
 POST my-index-scratch-01/_doc
 {
